@@ -1,0 +1,7 @@
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\bin\Debug\SimpleAddressBook.exe.config
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\bin\Debug\SimpleAddressBook.exe
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\bin\Debug\SimpleAddressBook.pdb
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\obj\Debug\SimpleAddressBook.csproj.AssemblyReference.cache
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\obj\Debug\SimpleAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\obj\Debug\SimpleAddressBook.exe
+C:\Users\davud_b3wsv9l\Downloads\SimpleAddressBook\SimpleAddressBook\obj\Debug\SimpleAddressBook.pdb
